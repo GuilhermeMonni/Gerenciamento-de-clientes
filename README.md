@@ -1,18 +1,28 @@
-## Getting Started
+# Gerenciamento-de-clientes
+Este é um sistema simples que simula um gerenciamento de compras e pagamentos de clientes de uma loja.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Requisitos
+* IDE para rodar código java
+* Java
 
-## Folder Structure
+# Instalação
+1. Clone este repositório para a sua IDE.
+2. Faça os testes pelo terminal.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Estrutura do Projeto
+* Cliente.java: Classe pai do projeto.
+* ClienteA.java: Subclasse que representa os clientes do tipo A.
+* ClienteB.java: Subclasse que representa os clientes do tipo B.
+* ClienteC.java: Subclasse que representa os clientes do tipo C.
+* Main.java: Classe de entrada para executar os testes.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+# Observações
+Este projeto foi desenvolvido para fins didáticos.
+##
+
+Sinta-se à vontade para abrir um issue no repositório caso tenha alguma sugestão.
